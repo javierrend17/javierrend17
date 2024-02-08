@@ -33,7 +33,7 @@ My desire to learn new things and tackle challenges motivates me to seek innovat
     <div style="flex: 1;">
         <img width ='32px' align= 'center' src ='https://cdn-icons-png.flaticon.com/512/732/732212.png'>
         <img width ='32px' align= 'center' src ='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png'>
-        <img width ='32px' align= 'center' src ='https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png'>
+        <img width ='32px' align= 'center' src ='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'>
         <img width ='32px' align= 'center' src ='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png'>
         <img width ='32px' align= 'center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'>
     </div>
