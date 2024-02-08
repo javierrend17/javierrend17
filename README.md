@@ -27,9 +27,9 @@ My desire to learn new things and tackle challenges motivates me to seek innovat
   
 - 🤓 I’m looking to learn as much as I can.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href = 'https://adsco.com/cdn/shop/files/Smile-Face-12Pk-HAPPY-FACE_740x.png?v=1683227072'> <img width ='32px' align= 'center' src ='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png'> </a> 
-<a href = 'https://adsco.com/cdn/shop/files/Smile-Face-12Pk-HAPPY-FACE_740x.png?v=1683227072'> <img width ='32px' align= 'center' src ='https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png'> </a> 
-<a href = 'https://adsco.com/cdn/shop/files/Smile-Face-12Pk-HAPPY-FACE_740x.png?v=1683227072'> <img width ='32px' align= 'center' src ='https://cdn-icons-png.flaticon.com/512/5968/5968282.png'> </a> 
-<a href = 'https://adsco.com/cdn/shop/files/Smile-Face-12Pk-HAPPY-FACE_740x.png?v=1683227072'> <img width ='32px' align= 'center' src ='https://cdn-icons-png.flaticon.com/512/4248/4248443.png'> </a> 
-<a href = 'https://adsco.com/cdn/shop/files/Smile-Face-12Pk-HAPPY-FACE_740x.png?v=1683227072'> <img width ='32px' align= 'center' src ='https://cdn-icons-png.flaticon.com/512/732/732212.png'> </a>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<a> <img width ='32px' align= 'center' src ='https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png'></a> 
+<a> <img width ='32px' align= 'center' src ='https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png'></a> 
+<a> <img width ='32px' align= 'center' src ='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png'></a> 
+<a> <img width ='32px' align= 'center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'></a> 
+<a> <img width ='32px' align= 'center' src ='https://cdn-icons-png.flaticon.com/512/732/732212.png'></a>
