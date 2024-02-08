@@ -31,18 +31,10 @@ My desire to learn new things and tackle challenges motivates me to seek innovat
 
 <div style="display: flex; flex-direction: row; gap: 10px;">
     <div style="flex: 1;">
-        <a> <img width ='32px' align= 'center' src ='https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png'></a> 
-    </div>
-    <div style="flex: 1;">
-        <a> <img width ='32px' align= 'center' src ='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png'></a>
-    </div>
-    <div style="flex: 1;">
-        <a> <img width ='32px' align= 'center' src ='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png'></a>
-    </div>
-    <div style="flex: 1;">
-        <a> <img width ='32px' align= 'center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'></a>
-    </div>
-    <div style="flex: 1;">
-        <a> <img width ='32px' align= 'center' src ='https://cdn-icons-png.flaticon.com/512/732/732212.png'></a>
+        <img width ='32px' align= 'center' src ='https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png'>
+        <img width ='32px' align= 'center' src ='https://cdn-icons-png.flaticon.com/512/732/732212.png'>
+        <img width ='32px' align= 'center' src ='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png'>
+        <img width ='32px' align= 'center' src ='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png'>
+        <img width ='32px' align= 'center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'>
     </div>
 </div>
