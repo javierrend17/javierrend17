@@ -29,7 +29,7 @@ My desire to learn new things and tackle challenges motivates me to seek innovat
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row; gap: 10px;">
     <div style="flex: 1;">
         <a> <img width ='32px' align= 'center' src ='https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png'></a> 
     </div>
