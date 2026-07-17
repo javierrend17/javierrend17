@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <div size='20px'>I am a passionate novice developer with an affinity for programming. My passion has led me to learn different languages such as HTML, CSS, and Javascript. Despite my initial level, I am deeply committed to continuous learning and problem-solving, and I enjoy every challenge that comes my way.<br>
 
 My desire to learn new things and tackle challenges motivates me to seek innovative solutions to complex problems. I seize every opportunity to expand my knowledge and skills, and I am always eager to delve into new domains of programming. The satisfaction of turning an idea into functional code is what drives me to continue exploring and improving as a developer.
-</div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
   
