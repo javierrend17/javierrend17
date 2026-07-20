@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   
 - 🤓 I’m looking to learn as much as I can.
 
+<div>I'm currently working, my current job doesn't leave me too much free time, but I enjoy working on my music website every time I can.</div>
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 <div style="display: flex; flex-direction: row; gap: 10px;">
